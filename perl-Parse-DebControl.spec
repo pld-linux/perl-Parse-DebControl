@@ -4,7 +4,6 @@
 
 %define		pdir	Parse
 %define		pnam	DebControl
-%include	/usr/lib/rpm/macros.perl
 Summary:	Easy OO parsing of debian control-like files
 Name:		perl-Parse-DebControl
 Version:	2.005
